@@ -1,0 +1,49 @@
+
+To install Atom Editor:
+
+Linux  : https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-linux
+Mac    : https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac
+Windows: https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows
+
+To test if Atom is closing tags automatically, create a new project,
+new html file and then type:
+"<html>" (without the double quotes)
+It should automatically show this tag in the next line:
+"</html>" (without the double quotes)
+
+If not, I would recommend to install "close-tags" by "fauxparse"
+To install it, go to Atom->Edit->Settings-> "+ Install" and type "close-tags". 
+
+APACHE PHP & MYSQL PACKAGES(XAMPP):
+
+Linux:
+
+Install and configure APACHE2, PHP & MYSQL (Install those first):
+https://hackernoon.com/how-to-install-and-configure-php-for-apache-and-mysql-wb1m33z1
+
+After have installed APACHE2, PHP & MYSQL, install phpmyadmin:
+https://www.hostinger.in/tutorials/how-to-install-and-setup-phpmyadmin-on-ubuntu
+
+In case MYSQL throws a password error while setting up:
+http://javaatpoint.com/solved-failed-error-set-password-has-no-significance-for-user-rootlocalhost-as-the-authentication-method-used-doesnt-store-authentication-data-in-the-mysql-server-please-consider-using/
+
+SIDE NOTE FOR XAMMP ON MAC/WINDOWS:
+
+The installation process should be smooth, 
+meaning you literally just need to click in "next" button to procede,
+until the installation finishes. 
+
+Mac:
+Download: https://www.apachefriends.org/download.html  or https://xampp.en.softonic.com/mac
+Install : https://www.intelliwolf.com/how-to-install-xampp-step-by-step/
+
+Windows:
+Download: https://www.apachefriends.org/download.html or https://xampp-windows.en.softonic.com/
+Install : https://www.crisisshelter.org/fix-xampp-install-uac-error-windows/
+
+
+I believe you can install both Atom Editor and XAMPP packages on your own, 
+but if not, leave a comment down below
+
+Always believe in your inner powers =D
+
